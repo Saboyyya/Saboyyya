@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Júlio César Saboya
 
-<!--
-**Saboyyya/Saboyyya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Desenvolvedor em formação, apaixonado por tecnologia e criação de soluções web.  
+ Sempre buscando aprender mais e evoluir como profissional.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Sobre mim
+-  Estudando desenvolvimento web e programação
+-  Interesse em **Front-end**, **Back-end** e **automação**
+-  Atualmente aprendendo mais sobre **JavaScript**, **Python** e **Java**
+-  Objetivo: conquistar minha primeira oportunidade como estagiário/júnior
+
+---
+
+## Tecnologias e Ferramentas
+
+### 💻 Linguagens
+- HTML5  
+- CSS3  
+- JavaScript  
+- Python  
+- Java  
+
+### ⚙️ Ferramentas
+- Git & GitHub  
+- VS Code  
+- Firebase  
+- Linux (openSUSE)
+
+---
+
+## 📂 Projetos em destaque
+🔹 [LandingPage](https://github.com/Saboyyya/Landing-Page-) — Landing page animada com HTML, CSS e JavaScript  
+🔹 [Zelda type game](https://github.com/Saboyyya/Zelda-type-game) — Jogo feito com pygame  
+🔹 [Website](https://github.com/Saboyyya/html-css) — Website criado com HTML e CSS  
+
+---
+
+##  Como me encontrar
+-  LinkedIn: [Júlio César Saboya](https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-saboya-paes-3703a4267/)
+-  Email: saboyyajulio@gmail.com
